@@ -1,2 +1,2 @@
 # iDarzi-Website
-https://syed-abdulwahab.github.io/Website/
+https://syed-abdulwahab.github.io/Ecommerce/
